@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Gawhar Alam
+# 👋 Hi, I'm Gawhar Alam
 
 ### 💻 Web Developer | React & Next.js Enthusiast
 
