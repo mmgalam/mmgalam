@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Gawhar Alam" width="100%">
+</p>
+
 # 👋 Hi, I'm Gawhar Alam
 
 ### 💻 Web Developer | React & Next.js Enthusiast
