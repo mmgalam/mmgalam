@@ -66,21 +66,25 @@ A web project built to practice modern frontend development concepts.
 
 🔗 [View Repository](https://github.com/mmgalam/Alam-A05-DevStack)
 
+🌐 [Live Website](https://alamdevstack.netlify.app/)
+
 ---
 
 ### 🏋️ FitLog
 
-A fitness/workout management web application built with Next.js and TypeScript.
+A modern fitness/workout management web application built with Next.js and TypeScript.
 
 **Tech:** Next.js, TypeScript, Tailwind CSS
 
 🔗 [View Repository](https://github.com/mmgalam/Alam-A06-FitLog)
 
+🌐 [Live Website](https://alamfitlog.netlify.app/)
+
 ---
 
 ### 🎤 DevConf 2026
 
-A modern and responsive developer conference website featuring speakers, pricing plans, workshops, networking and a hackathon section.
+A modern and responsive developer conference website featuring speakers, pricing plans, workshops, networking and a hackathon.
 
 **Tech:** HTML, CSS, JavaScript
 
